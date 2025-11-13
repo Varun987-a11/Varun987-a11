@@ -64,7 +64,7 @@ Showcasing my activity, commitment, and preferred languages on the platform.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun987-a11&layout=compact&theme=buefy&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333" alt="Top Languages" />
 </p>
 
----
+--- 
 
 ## 📬 Let's Connect!
 
