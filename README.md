@@ -2,7 +2,7 @@
 
 ### 🎓 BE Computer Science Student | Web Development Enthusiast | Problem Solver
 
----
+---   
 
 ## 👨‍💻 About Me
 
