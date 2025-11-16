@@ -107,7 +107,7 @@ A smart, fast, web-based food ordering system for college canteens.
 I'm always open to discussing new opportunities, challenging projects, or the latest innovations in software and rail engineering. Don't hesitate to reach out!
 
 * **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/varun-kumar-s/)
-* **Email (Primary):** [varunkumarsaravu@gmail.com](mailto:varunkumarsaravu@gmail.com)  |   [varunkumarkodical@gmail.com](mailto:varunkumarkodical@gmail.com)
+* **Email:** [varunkumarsaravu@gmail.com](mailto:varunkumarsaravu@gmail.com)  |   [varunkumarkodical@gmail.com](mailto:varunkumarkodical@gmail.com)
 * **Resume:** [View Complete Resume](https://varun987-a11.github.io/resume.html)
 * **Portfolio:** [Explore My Projects and Work](https://Varun987-a11.github.io)
 
