@@ -52,6 +52,7 @@ A visually rich single-page experience that blends **science**, **philosophy**, 
 A project where creativity meets structured frontend engineering.
 
 🔗 **Live:** https://varun987-a11.github.io/Cosmic-Canvas/ 
+
 🔗 **Code:** https://github.com/Varun987-a11/Cosmic-Canvas 
 
 ---
@@ -62,6 +63,7 @@ A project where creativity meets structured frontend engineering.
 * **Skills Demonstrated:** HTML5, CSS3, UX/UI Design, Content Presentation.
  
 🔗 **Live:** (https://varun987-a11.github.io/Vedic-Wisdom/) 
+
 🔗 **Code:** (https://github.com/Varun987-a11/Vedic-Wisdom/)
 
 ---
@@ -104,11 +106,10 @@ A smart, fast, web-based food ordering system for college canteens.
 
 I'm always open to discussing new opportunities, challenging projects, or the latest innovations in software and rail engineering. Don't hesitate to reach out!
 
-* **LinkedIn** [https://www.linkedin.com/in/varun-kumar-s/](https://www.linkedin.com/in/varun-kumar-s/)
-* **Email** [varunkumarsaravu@gmail.com](mailto:varunkumarsaravu@gmail.com) **|** [varunkumarkodical@gmail.com](mailto:varunkumarkodical@gmail.com)
-* **Resume** [View Complete Resume](https://varun987-a11.github.io/resume.html)
-* **Portfolio** [https://Varun987-a11.github.io](https://Varun987-a11.github.io)
-
+* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/varun-kumar-s/)
+* **Email (Primary):** [varunkumarsaravu@gmail.com](mailto:varunkumarsaravu@gmail.com)  |   [varunkumarkodical@gmail.com](mailto:varunkumarkodical@gmail.com)
+* **Resume:** [View Complete Resume](https://varun987-a11.github.io/resume.html)
+* **Portfolio:** [Explore My Projects and Work](https://Varun987-a11.github.io)
 
 ---
 
