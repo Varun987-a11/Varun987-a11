@@ -1,30 +1,24 @@
-# 🌌 Varun Kumar S  
+# 🌌 Varun Kumar S 
 ### 🎓 BE Computer Science Student | Web Development Enthusiast | Problem Solver
 
 ---
 
 ## 👋 Hey there!
 
-I’m **Varun**, a Computer Science Engineering student from **AJ Institute of Engineering & Technology, Mangalore**—someone who enjoys turning ideas into real, working digital systems.  
+I’m **Varun**, a Computer Science Engineering student from **AJ Institute of Engineering & Technology, Mangalore**—someone who enjoys turning ideas into real, working digital systems. 
 
 I love **building interfaces**, **crafting logic**, and **designing systems** that make technology feel simple, intuitive, and a little magical.
 
-What drives me?  
-➡️ *The excitement of creating things that didn’t exist yesterday.*  
-➡️ *The thrill of solving problems that look impossible at first.*  
-➡️ *The joy of learning—every single day.*
+What drives me? 
+➡️ *The excitement of creating things that didn’t exist yesterday.* ➡️ *The thrill of solving problems that look impossible at first.* ➡️ *The joy of learning—every single day.*
 
 ---
 
 ## 🧭 What I Do
 
-🔹 Build clean, functional **web apps**  
-🔹 Design intuitive **frontend experiences**  
-🔹 Work on **database-driven applications**  
-🔹 Explore the intersection of **technology + creativity**  
-🔹 Create digital projects like **CosmiCanvas** that merge art & code  
+🔹 Build clean, functional **web apps** 🔹 Design intuitive **frontend experiences** 🔹 Work on **database-driven applications** 🔹 Explore the intersection of **technology + creativity** 🔹 Create digital projects like **CosmiCanvas** that merge art & code 
 
-I’m currently looking for **internships and opportunities** in:  
+I’m currently looking for **internships and opportunities** in: 
 **Web Development**, **Full Stack Development**, and **Software Engineering**.
 
 ---
@@ -44,11 +38,11 @@ I’m currently looking for **internships and opportunities** in:
 ## 🚀 Featured Projects
 
 ### ⭐ **CosmiCanvas**
-A visually rich single-page experience that blends **science**, **philosophy**, and **design** to explore the concept of reality.  
+A visually rich single-page experience that blends **science**, **philosophy**, and **design** to explore the concept of reality. 
 A project where creativity meets structured frontend engineering.
 
-🔗 **Live:** https://varun987-a11.github.io/Cosmic-Canvas/  
-🔗 **Code:** https://github.com/Varun987-a11/Cosmic-Canvas  
+🔗 **Live:** https://varun987-a11.github.io/Cosmic-Canvas/ 
+🔗 **Code:** https://github.com/Varun987-a11/Cosmic-Canvas 
 
 ---
 
@@ -56,8 +50,8 @@ A project where creativity meets structured frontend engineering.
 ### 🕉️ **Vedic Wisdom**
 * **Description:** A static website designed to present the utility and essence of ancient Vedic texts through a modern, clean, and highly accessible user interface.
 * **Skills Demonstrated:** HTML5, CSS3, UX/UI Design, Content Presentation.
-  
-🔗 **Live:** (https://varun987-a11.github.io/Vedic-Wisdom/)  
+ 
+🔗 **Live:** (https://varun987-a11.github.io/Vedic-Wisdom/) 
 🔗 **Code:** (https://github.com/Varun987-a11/Vedic-Wisdom/)
 
 ---
@@ -65,8 +59,8 @@ A project where creativity meets structured frontend engineering.
 
 ### 🔊 **NoiseScope: Crowdsourced Ambient Noise Mapping**
 * **Description:** A full-stack crowdsourced web system designed to monitor and map ambient noise pollution in specific environments (like a university campus). It utilizes the **Web Audio API** on smartphones to capture, process, and map sound pressure levels (dB) in real-time.
-* **Skills Demonstrated:** Full-Stack Web Development (LAMP Stack: **PHP, MySQL**), Client-Side Audio Processing (**Web Audio API**), GIS Mapping & Visualization (**Leaflet.js, Chart.js**), Geolocation API, Data Validation.     
-🔗 **Live:** (https://varun987-a11.github.io/NoiseScope/)      
+* **Skills Demonstrated:** Full-Stack Web Development (LAMP Stack: **PHP, MySQL**), Client-Side Audio Processing (**Web Audio API**), GIS Mapping & Visualization (**Leaflet.js, Chart.js**), Geolocation API, Data Validation.  
+🔗 **Live:** (https://varun987-a11.github.io/NoiseScope/)   
 🔗 **Code:** (https://github.com/Varun987-a11/NoiseScope)
 
 ---
@@ -77,7 +71,7 @@ A project where creativity meets structured frontend engineering.
 ### ⚠️ **DisasterLink**
 A simple yet powerful tool to connect people with **emergency help and resources** during critical situations.
 
-🔗 **Code:** https://github.com/Varun987-a11/disasterlink  
+🔗 **Code:** https://github.com/Varun987-a11/disasterlink 
 
 ---
 
@@ -85,13 +79,13 @@ A simple yet powerful tool to connect people with **emergency help and resources
 ### 🏥 **DoctorAppointmentScheduler**
 A DBMS-based appointment portal built using **PHP + MySQL**, with a clean workflow for booking and managing doctor visits.
 
-🔗 **Code:** https://github.com/Varun987-a11/DoctorAppointmentScheduler  
+🔗 **Code:** https://github.com/Varun987-a11/DoctorAppointmentScheduler 
 
 ---
 
 
 ### 🔧 *Currently Building: Canteenly*
-A smart, fast, web-based food ordering system for college canteens.  
+A smart, fast, web-based food ordering system for college canteens. 
 (Yes, no more standing in long queues 😄)
 
 ---
@@ -121,12 +115,13 @@ I love meeting new people, collaborating on interesting ideas, and learning from
 
 ## 🚆 A Little About Me
 
-When I’m not coding, you’ll probably find me **railfanning**—capturing locomotives, tracking routes, or just enjoying that perfect horn echoing across the tracks.  
-Technology builds things; trains inspire them.
+When I’m not coding, you’ll probably find me **railfanning**—capturing locomotives, tracking routes, or just enjoying that perfect horn echoing across the tracks. This passion for systemic precision and detail also fuels my coding. I document my hobby on my small YouTube channel, sharing the engineering beauty of rail transport.
+
+**[My Railfanning Channel (vks_youtube)](https://www.youtube.com/@vks_youtube)**
 
 ---
 
 ## 🏁 Final Note
-**Thanks for stopping by!  
-I’m committed to learning, building, and creating things that matter.  
+**Thanks for stopping by! 
+I’m committed to learning, building, and creating things that matter. 
 Let’s build something awesome together.**
