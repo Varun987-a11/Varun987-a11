@@ -1,4 +1,4 @@
-# 🌌 Varun Kumar S  
+#  Varun Kumar S  
 ### **Builder of Things | Web Dev Enthusiast | CSE Student Exploring Reality Through Code**
 
 ---
@@ -89,7 +89,7 @@ I love meeting new people, collaborating on interesting ideas, and learning from
 | Platform | Link |
 |---------|------|
 | 🌍 **Portfolio** | https://Varun987-a11.github.io |
-| ✉️ **Email** | varunkumarsaravu@gmail.com |
+| ✉️ **Email** | varunkumarsaravu@gmail.com |  varunkumarkodical@gmail.com 
 | 💼 **LinkedIn** | https://www.linkedin.com/in/varun-kumar-s/ |
 | 📄 **Resume** | https://varun987-a11.github.io/resume.html |
 
