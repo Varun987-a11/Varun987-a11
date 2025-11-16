@@ -37,6 +37,16 @@ I’m currently looking for **internships and opportunities** in:
 
 ## 🚀 Featured Projects
 
+
+### 🔊 **NoiseScope: Crowdsourced Ambient Noise Mapping**
+* **Description:** A full-stack crowdsourced web system designed to monitor and map ambient noise pollution in specific environments (like a university campus). It utilizes the **Web Audio API** on smartphones to capture, process, and map sound pressure levels (dB) in real-time.
+* **Skills Demonstrated:** Full-Stack Web Development (LAMP Stack: **PHP, MySQL**), Client-Side Audio Processing (**Web Audio API**), GIS Mapping & Visualization (**Leaflet.js, Chart.js**), Geolocation API, Data Validation.  
+🔗 **Live:** (https://varun987-a11.github.io/NoiseScope/)   
+🔗 **Code:** (https://github.com/Varun987-a11/NoiseScope)
+
+---
+
+
 ### ⭐ **CosmiCanvas**
 A visually rich single-page experience that blends **science**, **philosophy**, and **design** to explore the concept of reality. 
 A project where creativity meets structured frontend engineering.
@@ -55,16 +65,6 @@ A project where creativity meets structured frontend engineering.
 🔗 **Code:** (https://github.com/Varun987-a11/Vedic-Wisdom/)
 
 ---
-
-
-### 🔊 **NoiseScope: Crowdsourced Ambient Noise Mapping**
-* **Description:** A full-stack crowdsourced web system designed to monitor and map ambient noise pollution in specific environments (like a university campus). It utilizes the **Web Audio API** on smartphones to capture, process, and map sound pressure levels (dB) in real-time.
-* **Skills Demonstrated:** Full-Stack Web Development (LAMP Stack: **PHP, MySQL**), Client-Side Audio Processing (**Web Audio API**), GIS Mapping & Visualization (**Leaflet.js, Chart.js**), Geolocation API, Data Validation.  
-🔗 **Live:** (https://varun987-a11.github.io/NoiseScope/)   
-🔗 **Code:** (https://github.com/Varun987-a11/NoiseScope)
-
----
-
 
 
 
@@ -100,16 +100,15 @@ A smart, fast, web-based food ordering system for college canteens.
 
 ---
 
-## 🌐 Let’s Connect
+## 📬 Let's Connect
 
-I love meeting new people, collaborating on interesting ideas, and learning from every conversation.
+I'm always open to discussing new opportunities, challenging projects, or the latest innovations in software and rail engineering. Don't hesitate to reach out!
 
-| Platform | Link |
-|---------|------|
-| 🌍 **Portfolio** | https://Varun987-a11.github.io |
-| ✉️ **Email** | varunkumarsaravu@gmail.com |
-| 💼 **LinkedIn** | https://www.linkedin.com/in/varun-kumar-s/ |
-| 📄 **Resume** | https://varun987-a11.github.io/resume.html |
+* **LinkedIn** [https://www.linkedin.com/in/varun-kumar-s/](https://www.linkedin.com/in/varun-kumar-s/)
+* **Email** [varunkumarsaravu@gmail.com](mailto:varunkumarsaravu@gmail.com) **|** [varunkumarkodical@gmail.com](mailto:varunkumarkodical@gmail.com)
+* **Resume** [View Complete Resume](https://varun987-a11.github.io/resume.html)
+* **Portfolio** [https://Varun987-a11.github.io](https://Varun987-a11.github.io)
+
 
 ---
 
