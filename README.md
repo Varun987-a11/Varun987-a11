@@ -117,7 +117,7 @@ I love meeting new people, collaborating on interesting ideas, and learning from
 
 When I’m not coding, you’ll probably find me **railfanning**—capturing locomotives, tracking routes, or just enjoying that perfect horn echoing across the tracks. This passion for systemic precision and detail also fuels my coding. I document my hobby on my small YouTube channel, sharing the engineering beauty of rail transport.
 
-**[My Railfanning Channel (vks_youtube)](https://www.youtube.com/@vks_youtube)**
+**[My Railfanning Channel on YouTube](https://www.youtube.com/@vks_youtube)**
 
 ---
 
