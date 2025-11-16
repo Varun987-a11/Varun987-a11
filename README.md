@@ -1,5 +1,5 @@
 # 🌌 Varun Kumar S  
-### **Builder of Things | Web Dev Enthusiast | CSE Student Exploring Reality Through Code**
+### 🎓 BE Computer Science Student | Web Development Enthusiast | Problem Solver
 
 ---
 
@@ -53,7 +53,7 @@ A project where creativity meets structured frontend engineering.
 ---
 
 
-### **Vedic Wisdom**
+### 🕉️ **Vedic Wisdom**
 * **Description:** A static website designed to present the utility and essence of ancient Vedic texts through a modern, clean, and highly accessible user interface.
 * **Skills Demonstrated:** HTML5, CSS3, UX/UI Design, Content Presentation.
 🔗 **Live:** (https://varun987-a11.github.io/Vedic-Wisdom/)  
@@ -64,8 +64,8 @@ A project where creativity meets structured frontend engineering.
 
 ### **NoiseScope: Crowdsourced Ambient Noise Mapping**
 * **Description:** A full-stack crowdsourced web system designed to monitor and map ambient noise pollution in specific environments (like a university campus). It utilizes the **Web Audio API** on smartphones to capture, process, and map sound pressure levels (dB) in real-time.
-* **Skills Demonstrated:** Full-Stack Web Development (LAMP Stack: **PHP, MySQL**), Client-Side Audio Processing (**Web Audio API**), GIS Mapping & Visualization (**Leaflet.js, Chart.js**), Geolocation API, Data Validation.
-🔗 **Live:** (https://varun987-a11.github.io/NoiseScope/)
+* **Skills Demonstrated:** Full-Stack Web Development (LAMP Stack: **PHP, MySQL**), Client-Side Audio Processing (**Web Audio API**), GIS Mapping & Visualization (**Leaflet.js, Chart.js**), Geolocation API, Data Validation.     
+🔗 **Live:** (https://varun987-a11.github.io/NoiseScope/)      
 🔗 **Code:** (https://github.com/Varun987-a11/NoiseScope)
 
 ---
