@@ -92,7 +92,7 @@ A smart, fast, web-based food ordering system for college canteens.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varun987-a11&show_icons=true&theme=buefy&hide_border=true" />
