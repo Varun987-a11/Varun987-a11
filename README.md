@@ -1,4 +1,4 @@
-# 🌌 Varun Kumar S 
+                          # 🌌 Varun Kumar S 
 ### 🎓 BE Computer Science Student | Web Development Enthusiast | Problem Solver
 
 ---
