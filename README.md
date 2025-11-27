@@ -101,8 +101,13 @@ My passion for **systemic precision and detail** extends beyond software. I am a
 I am always eager to discuss challenging projects, new technologies, or potential opportunities. Feel free to reach out!
 
 * **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/varun-kumar-s/)
-* **Email (Professional):** [varunkumarsaravu@gmail.com](mailto:varunkumarsaravu@gmail.com)
-* **Portfolio & Complete Resume:** [View My Full Portfolio](https://Varun987-a11.github.io)
+
+* **Email:** [varunkumarsaravu@gmail.com](mailto:varunkumarsaravu@gmail.com) | [varunkumarkodical@gmail.com](mailto:varunkumarkodical@gmail.com)
+
+* **Resume:** [View Complete Resume](https://varun987-a11.github.io/resume.html)
+
+* **Portfolio:** [Explore My Projects and Work](https://Varun987-a11.github.io)
+
 
 ---
 
