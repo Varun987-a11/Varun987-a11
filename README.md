@@ -92,8 +92,7 @@ I maintain an active presence on GitHub, demonstrating commitment to version con
 
 My passion for **systemic precision and detail** extends beyond software. I am an enthusiastic **railfan**, documenting the engineering beauty, complex scheduling, and robust systems of rail transport on my YouTube channel. This hobby reinforces my appreciation for well-engineered, reliable systems—a philosophy I bring to every line of code.
 
-**[Explore My Railfanning Channel on YouTube]**
-
+**[Explore My Railfanning Channel on YouTube](https://www.youtube.com/@vks_youtube)**
 ---
 
 ## 📬 Let's Connect & Collaborate
