@@ -81,7 +81,7 @@ A visually captivating single-page application (SPA) focused on advanced fronten
 I maintain an active presence on GitHub, demonstrating commitment to version control, continuous improvement, and coding best practices.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varun987-a11&show_icons=true&theme=buefy&hide_border=true&title_color=3382ed&icon_color=3382ed" alt="Varun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun987-a11&show_icons=true&theme=buefy&hide_border=true&title_color=3382ed&icon_color=3382ed" alt="Varun's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun987-a11&layout=compact&theme=buefy&hide_border=true&title_color=3382ed&icon_color=3382ed" alt="Varun's Top Languages" />
 </p>
