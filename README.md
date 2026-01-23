@@ -32,7 +32,7 @@ I'm a 3rd Year Computer Science & Engineering student currently navigating the w
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Varun987-a11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
