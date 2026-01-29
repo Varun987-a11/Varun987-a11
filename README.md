@@ -9,7 +9,7 @@ I’m **Varun**, a dedicated Computer Science Engineering student from **AJ Inst
 
 My work lies at the intersection of **clean backend logic**, **user-centric frontend design**, and **robust database management**. I thrive on transforming complex, real-world challenges—like noise mapping and resource management—into efficient, functional software.
 
-> **Current Goal:** Seeking **Internships and Full-Time Opportunities** in **Full Stack Development**, **Web Engineering**, and **Software Engineering** where I can apply my foundational knowledge and learn from cutting-edge industry practices.
+> **Current Goal:** Seeking ** Opportunities** in **Full Stack Development**, **Web Engineering**, and **Software Engineering** where I can apply my foundational knowledge and learn from cutting-edge industry practices.
 
 ---
 
