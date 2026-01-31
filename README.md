@@ -5,17 +5,12 @@
 
 ## 👋 Hello and Welcome!
 
-I’m **Varun**, a dedicated Computer Science Engineering student from **AJ Institute of Engineering & Technology, Mangalore**. I am passionate about **systematic problem-solving** and leveraging technology to build **scalable, intuitive digital solutions**.
-
-My work lies at the intersection of **clean backend logic**, **user-centric frontend design**, and **robust database management**. I thrive on transforming complex, real-world challenges—like noise mapping and resource management—into efficient, functional software.
-
-> **Current Goal:** Seeking **more Opportunities** in **Full Stack Development**, **Web Engineering**, and **Software Engineering** where I can apply my foundational knowledge and learn from cutting-edge industry practices.
-
 ---
 
 # 💫 About Me:
 I'm a 3rd Year Computer Science & Engineering student currently navigating the world of web development and software logic. I love turning coffee into code (or at least trying to!).<br><br>🔭 I’m currently working on: Developing a custom commercial web platform for a local boutique client (keeping the details under wraps for now! 🤫).<br><br>👯 I’m looking to collaborate on: Open-source beginner projects or/and web tools.<br><br>🤝 I’m looking for help with: Mastering Data Structures and getting better at Backend logic.<br><br>🌱 I’m currently learning: Data Structures and Algorithms, Modern Web Development, Advanced JavaScript frameworks and the art of clean documentation.<br><br>💬 Ask me about: Student life, surviving 5 semesters of CSE, or my favorite VS Code extensions.<br><br>⚡ Fun fact: I spend 90% of my time debugging and the other 10% wondering how it worked the first time.
 
+> **Current Goal:** Seeking **more Opportunities** in **Full Stack Development**, **Web Engineering**, and **Software Engineering** where I can apply my foundational knowledge and learn from cutting-edge industry practices.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just_vk.s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varun-kumar-s-294b70341) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Varunkumar_S05) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VarunkumarS-w7t9m) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Varun-kumar-S-the-sans) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunkumarsaravu@gmail.com) 
