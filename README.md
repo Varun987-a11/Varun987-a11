@@ -11,18 +11,17 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
 - 🔭 **Currently working on:** A custom commercial web platform for a local boutique client  
 - 👯 **Open to collaborating on:** Beginner-friendly open-source projects and practical web tools  
 - 🤝 **Looking for help with:** Data Structures, Algorithms, and backend architecture  
-- 🌱 **Currently learning:**  
-  - Data Structures & Algorithms  
+- 🌱 **Currently learning:** - Data Structures & Algorithms  
   - Modern Web Development  
   - Advanced JavaScript & frameworks  
   - Writing clean, structured documentation  
 - 💬 **Ask me about:** Student life in CSE, project learning curves, or VS Code productivity  
-- 📁 **Projects:** You can explore my work in my **public GitHub repositories** or find check it in the *project* section on  **LinkedIn**  
+- 📁 **Projects:** You can explore my work in my **public GitHub repositories** or check them out in the project section on [**LinkedIn**](https://www.linkedin.com/in/varun-kumar-s-294b70341/details/projects/)  
 
 ---
 
