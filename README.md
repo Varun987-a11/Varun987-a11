@@ -1,5 +1,5 @@
  # 🌌 Varun Kumar S 
-### 🎓 BE Computer Science Student | Web Development Enthusiast | Problem Solver
+### 🎓 BE Computer Science Student | Web Development | Problem Solver 
 
 ---
 
