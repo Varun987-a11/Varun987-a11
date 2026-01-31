@@ -22,7 +22,7 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
   - Advanced JavaScript & frameworks  
   - Writing clean, structured documentation  
 - 💬 **Ask me about:** Student life in CSE, project learning curves, or VS Code productivity  
-- 📁 **Projects:** You can explore my work in my **public GitHub repositories** or find selected project highlights on **LinkedIn**  
+- 📁 **Projects:** You can explore my work in my **public GitHub repositories** or find check it in the *project* section on  **LinkedIn**  
 
 ---
 
@@ -98,3 +98,4 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 ---
 
 > *“Strong foundations, consistent learning, and honest problem-solving scale better than hype.”*
+
