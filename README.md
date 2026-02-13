@@ -1,4 +1,4 @@
-🌌 Varun Kumar S
+#🌌 Varun Kumar S
 
 ### 🎓 BE Computer Science Student | Full Stack Development | Problem Solver  
 
@@ -98,4 +98,5 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 ---
 
 > *“Strong foundations, consistent learning, and honest problem-solving scale better than hype.”*
+
 
