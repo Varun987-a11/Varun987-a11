@@ -18,7 +18,7 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 
 # 💫 About Me
 
-- 🔭 **Currently working on:** A custom commercial web platform for a local boutique client  
+- 🔭 **Currently working on:** A custom commercial full stack web platform for a local boutique client  
 - 👯 **Open to collaborating on:** Beginner-friendly open-source projects and practical web tools  
 - 🤝 **Looking for help with:** Data Structures, Algorithms, and backend architecture  
 - 🌱 **Currently learning:** - Data Structures & Algorithms  
