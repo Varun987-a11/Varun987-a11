@@ -105,7 +105,7 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 
 ## 📊 GitHub Stats
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varun987-a11&theme=high-contrast&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=Varun987-a11&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 
