@@ -27,7 +27,7 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
   - Writing clean, structured documentation  
 - 💬 **Ask me about:** Student life in CSE, project learning curves, or VS Code productivity  
 - 📁 **Projects:** You can explore my work in my **public GitHub repositories** or check them out in the project section on [**LinkedIn**](https://www.linkedin.com/in/varunkumar-s/details/projects/)
--    **View my personal portfolio site  [**Here**](https://varun987-a11.github.io/varunkumar-s/)  
+- View my personal portfolio site  [**Here**](https://varun987-a11.github.io/varunkumar-s/)  
 
 ---
 
