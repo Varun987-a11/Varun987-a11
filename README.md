@@ -53,6 +53,15 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 
 ---
 
+## 🚀 Currently Strengthening
+
+- Problem Solving & Competitive Coding  
+- Backend Architecture Design  
+- Writing Production Level Code  
+- Communication & Technical Clarity
+
+---
+
 ## 💻 Tech Stack
 
 ### 🧠 Core (Regular Use)
