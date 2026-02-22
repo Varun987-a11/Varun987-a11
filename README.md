@@ -42,6 +42,16 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunkumarsaravu@gmail.com)
 
 ---
+## 🧩 Computer Science Foundations
+
+- Data Structures & Algorithms  
+- Operating Systems  
+- Computer Networks  
+- DBMS  
+- Object Oriented Programming  
+- System Design (Basics)
+
+---
 
 ## 💻 Tech Stack
 
