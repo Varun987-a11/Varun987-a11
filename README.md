@@ -53,12 +53,17 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 
 ---
 
-## 🚀 Currently Strengthening
 
-- Problem Solving & Competitive Coding  
-- Backend Architecture Design  
-- Writing Production Level Code  
+## 🗺 Current Focus Roadmap
+
+- Mastering Data Structures & Algorithms
+- Problem Solving & Competitive Coding
+- Backend Architecture & REST APIs  
+- Database Optimization  
+- Deployment & DevOps Basics  
+- Clean Code & Documentation
 - Communication & Technical Clarity
+
 
 ---
 
