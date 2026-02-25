@@ -3,7 +3,7 @@
 
 # Varun Kumar S
 
-### 🎓  BE Computer Science Student | Full Stack Development | Problem Solver  
+### 🎓  BE Computer Science Student | Full Stack Development | Problem Solver   
 </div>
 
 ---
