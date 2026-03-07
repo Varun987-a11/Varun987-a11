@@ -68,6 +68,7 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 ---
 
 ## 💻 Tech Stack
+<div align="center">
 
 ### 🧠 Core (Regular Use)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -112,6 +113,7 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 [![LeetCode](https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LINK)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](YOUR_LINK)
 
+</div>
 ---
 
 ## 📊 GitHub Stats
