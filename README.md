@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Varun Kumar S
+#  Varun Kumar S
 
 ### ⚡ `build → break → debug → repeat`
 
