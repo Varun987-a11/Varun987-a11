@@ -107,6 +107,7 @@ I’m not here just to *write code* — I’m here to understand how **systems a
 ---
 
 ## 💻 tech_stack
+<div align="center">
 
 ### 🧠 Core Languages
 
@@ -140,9 +141,12 @@ I’m not here just to *write code* — I’m here to understand how **systems a
 ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge\&logo=canva)
 ![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge\&logo=powershell)
 
+</div>
+
 ---
 
 ## 🌐 connect()
+
 
 <div align="center">
 
