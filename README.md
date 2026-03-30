@@ -123,11 +123,10 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 
 ![](https://github-readme-stats.vercel.app/api?username=Varun987-a11&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Varun987-a11&theme=highcontrast&hide_border=false)
+![](https://streak-stats.demolab.com?user=Varun987-a11&theme=highcontrast&hide_border=false)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Varun987-a11&repo=Varun987-a11&theme=highcontrast)](https://github.com/Varun987-a11/Varun987-a11)
+![](https://github-profile-trophy.vercel.app/?username=Varun987-a11&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)---
 
----
 
 ## 🏆 GitHub Trophies
 
