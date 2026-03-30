@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Varun Kumar S
@@ -21,13 +20,14 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 - 🔭 **Currently working on:** A custom commercial full stack web platform for a local boutique client  
 - 👯 **Open to collaborating on:** Beginner-friendly open-source projects and practical web tools  
 - 🤝 **Looking for help with:** Data Structures, Algorithms, and backend architecture  
-- 🌱 **Currently learning:** - Data Structures & Algorithms  
+- 🌱 **Currently learning:**  
+  - Data Structures & Algorithms  
   - Modern Web Development  
   - Advanced JavaScript & frameworks  
   - Writing clean, structured documentation  
 - 💬 **Ask me about:** Student life in CSE, project learning curves, or VS Code productivity  
-- 📁 **Projects:** You can explore my work in my **public GitHub repositories** or check them out in the project section on [**LinkedIn**](https://www.linkedin.com/in/varunkumar-s/details/projects/)
-- Connect with me on [**LinkedIn**](https://www.linkedin.com/in/varunkumar-s)
+- 📁 **Projects:** You can explore my work in my **public GitHub repositories** or check them out in the project section on [**LinkedIn**](https://www.linkedin.com/in/varunkumar-s/details/projects/)  
+- Connect with me on [**LinkedIn**](https://www.linkedin.com/in/varunkumar-s)  
 - View my personal portfolio site  [**Here**](https://varun987-a11.github.io/varunkumar-s/)  
 
 ---
@@ -42,6 +42,7 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunkumarsaravu@gmail.com)
 
 ---
+
 ## 🧩 Computer Science Foundations
 
 - Data Structures & Algorithms  
@@ -53,7 +54,6 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 
 ---
 
-
 ## 🗺 Current Focus Roadmap
 
 - Mastering Data Structures & Algorithms
@@ -63,7 +63,6 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 - Deployment & DevOps Basics  
 - Clean Code & Documentation
 - Communication & Technical Clarity
-
 
 ---
 
@@ -109,7 +108,6 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 
 ---
 
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LINK)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](YOUR_LINK)
 
@@ -125,8 +123,9 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 
 ![](https://streak-stats.demolab.com?user=Varun987-a11&theme=highcontrast&hide_border=false)
 
-![](https://github-profile-trophy.vercel.app/?username=Varun987-a11&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)---
+![](https://github-profile-trophy.vercel.app/?username=Varun987-a11&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+---
 
 ## 🏆 GitHub Trophies
 
@@ -141,7 +140,3 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 ---
 
 > *“Strong foundations, consistent learning, and honest problem-solving scale better than hype.”*
-
-
-
-
