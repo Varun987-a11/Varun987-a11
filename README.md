@@ -33,15 +33,19 @@ I’m not here just to *write code* — I’m here to understand how **systems a
 
 ```json
 {
-  "building": "Full stack web platform for a boutique client",
+  "building": "Custom full stack platform for a boutique client",
   "learning": [
-    "DSA",
+    "Data Structures & Algorithms",
     "Backend Architecture",
     "Advanced JavaScript",
     "Clean Code"
   ],
   "goal": "Full Stack / Software Engineering role",
-  "open_to": ["Open Source", "Collaboration", "Internships"]
+  "open_to": [
+    "Open Source",
+    "Collaboration",
+    "Internships"
+  ]
 }
 ```
 
@@ -49,11 +53,11 @@ I’m not here just to *write code* — I’m here to understand how **systems a
 
 ## 🧩 about_me.exe
 
-* 🔭 building **real-world applications**
+* 🔭 building **real-world applications** (not just tutorial clones)
 * 🧠 learning to think in **systems, not scripts**
 * 🧱 strengthening **core CS fundamentals**
-* ⚡ prioritizing **clean, readable, scalable code**
-* 🧪 learning deeply through debugging & iteration
+* ⚡ writing **clean, readable, scalable code**
+* 🧪 debugging deeply → that’s where real learning happens
 
 ---
 
@@ -73,7 +77,7 @@ I’m not here just to *write code* — I’m here to understand how **systems a
 ### ⚙️ engineering_focus
 
 * Backend Logic & API Design
-* Database Modeling
+* Database Modeling & Optimization
 * Scalable Thinking (early stage)
 * Clean Code & Documentation
 
@@ -82,21 +86,21 @@ I’m not here just to *write code* — I’m here to understand how **systems a
 ## 🗺 roadmap.md
 
 ```txt
-[Foundations]
-  ├── DSA
-  ├── Problem Solving
-  └── Core CS
+[Phase 1] Foundations
+  ├── DSA (consistency > speed)
+  ├── Problem solving patterns
+  └── Core CS subjects
 
-[Engineering]
-  ├── Backend Systems
+[Phase 2] Engineering Depth
+  ├── Backend architecture
   ├── REST APIs
   ├── Databases
-  └── Auth Systems
+  └── Authentication systems
 
-[Industry Ready]
-  ├── DevOps Basics
-  ├── Deployment
-  ├── Code Quality
+[Phase 3] Industry Readiness
+  ├── Deployment & DevOps basics
+  ├── Clean documentation
+  ├── Code quality
   └── Communication
 ```
 
@@ -104,7 +108,7 @@ I’m not here just to *write code* — I’m here to understand how **systems a
 
 ## 💻 tech_stack
 
-### Languages
+### 🧠 Core Languages
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
@@ -112,7 +116,7 @@ I’m not here just to *write code* — I’m here to understand how **systems a
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 
-### Web
+### 🌐 Web & Frameworks
 
 ![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
@@ -120,13 +124,21 @@ I’m not here just to *write code* — I’m here to understand how **systems a
 ![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge\&logo=tailwind-css)
 
-### Databases & Cloud
+### 🗄 Databases & Cloud
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge\&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazon-aws)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge\&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge\&logo=canva)
+![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge\&logo=powershell)
 
 ---
 
@@ -142,20 +154,6 @@ I’m not here just to *write code* — I’m here to understand how **systems a
 [![X](https://img.shields.io/badge/X-Connect-black?style=for-the-badge\&logo=x)](https://x.com/Varunkumar_S05)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge\&logo=youtube)](https://youtube.com/@VarunkumarS-w7t9m)
 [![CodePen](https://img.shields.io/badge/CodePen-Profile-black?style=for-the-badge\&logo=codepen)](https://codepen.io/Varun-kumar-S-the-sans)
-
-</div>
-
----
-
-## 📊 github_stats()
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Varun987-a11\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-
-![Streak](https://streak-stats.demolab.com?user=Varun987-a11\&theme=tokyonight\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun987-a11\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 </div>
 
@@ -185,12 +183,28 @@ while (!mastery) {
 
 ---
 
-## 📌 final_note.md
+## 📊 GitHub Stats
 
-Still early. Still learning. Still building.
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varun987-a11\&theme=high-contrast\&hide_border=true)
 
-But everything is intentional.
+![](https://github-readme-stats.vercel.app/api?username=Varun987-a11\&theme=highcontrast\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://streak-stats.demolab.com?user=Varun987-a11\&theme=highcontrast\&hide_border=false)
+
+![](https://github-profile-trophy.vercel.app/?username=Varun987-a11\&theme=darkhub\&no-frame=false\&no-bg=false\&margin-w=4)
 
 ---
 
-> ⚡ "Strong foundations scale. Hype doesn't."
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Varun987-a11\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+
+---
+
+> *“Strong foundations, consistent learning, and honest problem-solving scale better than hype.”*
