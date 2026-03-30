@@ -115,6 +115,8 @@ I’m a 3rd Year Computer Science & Engineering student with a strong interest i
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varun987-a11&theme=high-contrast&hide_border=true)
