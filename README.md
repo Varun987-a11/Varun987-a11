@@ -1,10 +1,10 @@
 <div align="center">
 
 #  Varun Kumar S
-
+ 
 ### ⚡ `build → break → debug → repeat`
 
-### Full Stack Developer (in progress) | Systems Thinker | CSE Student
+### Developer | Systems Thinker | CSE Student
 
 </div>
 
