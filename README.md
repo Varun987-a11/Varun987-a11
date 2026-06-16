@@ -13,11 +13,11 @@
 ## 🧠 whoami
 
 ```bash
-$ whoami
+$ who_am_i
 Varun Kumar S
 
 $ role
-Full Stack Developer (learning phase)
+Full Stack Developer (in progress)
 
 $ focus
 Systems • Backend • Problem Solving
@@ -34,14 +34,17 @@ I’m not here just to *write code* - I’m here to understand how **systems are
 ```json
 {
   "building": "Custom full stack platform for a boutique client",
+
   "learning": [
     "Data Structures & Algorithms",
     "Backend Architecture",
     "Advanced JavaScript",
     "Clean Code"
   ],
+
   "goal": "Full Stack / Software Engineering role",
   "open_to": [
+    "Work",
     "Open Source",
     "Collaboration",
     "Internships"
