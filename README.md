@@ -23,7 +23,7 @@ $ focus
 Systems • Backend • Problem Solving
 ```
 
-I’m not here just to *write code* — I’m here to understand how **systems are designed, how they fail, and how they scale**.
+I’m not here just to *write code* - I’m here to understand how **systems are designed, how they fail, and how they scale**.
 
 > ⚙️ Mission: Become an **industry-ready software engineer** through real-world building and deep fundamentals.
 
